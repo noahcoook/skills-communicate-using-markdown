@@ -7,3 +7,6 @@
 var = print('hello world')
 
 ```
+
+- [x] look at bender
+- [x] make task list
